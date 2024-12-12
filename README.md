@@ -10,7 +10,7 @@ Before diving into the SwiftData Workshop, make sure you're equipped with the fo
 
 ### Project (Source Code)
 - [Download the Starter Project](/resources/BudgetAppWorkshop-Starter.zip) 
-- [Download the Final Project](/resources/BudgetAppWorkshop-final.zip)
+- [Download the Final Project](/resources/BudgetAppWorkshop-final-12132024.zip)
 
 ### Fundamentals 
 
@@ -27,16 +27,11 @@ Get started with the fundamentals of SwiftData:
 
 Dive deeper into SwiftData by understanding and setting up relationships between your data entities. Learn about dynamic queries for efficient data handling.
 
-## Migrations 
-
-You will learn how to perform simple, lightweight migrations in SwiftData. Migrations allow you to change the structure/schema of your database. You are also going to get an overview of complex migrations. 
-
 ### Testing 
 
 Ensure the reliability of your SwiftData implementation with robust testing strategies:
 
 - Perform unit testing on domain logic.
-- Write end-to-end tests to validate functionality thoroughly.
 
 ### Integrating with iCloud
 
