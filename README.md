@@ -1,4 +1,4 @@
-# SwiftData Workshop 
+# SwiftData Workshop December 13, 2024 
 
 ### Prerequisites 
 
