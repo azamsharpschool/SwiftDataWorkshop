@@ -6,7 +6,7 @@ Before diving into the SwiftData Workshop, make sure you're equipped with the fo
 
 - Familiarity with Swift Language.
 - Basic understanding of SwiftUI.
-- Xcode 15.x installed on your system.
+- Xcode 16.x installed on your system.
 
 ### Project (Source Code)
 - [Download the Starter Project](/resources/BudgetAppWorkshop-starter-12132024.zip)
