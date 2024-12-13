@@ -9,7 +9,7 @@ Before diving into the SwiftData Workshop, make sure you're equipped with the fo
 - Xcode 15.x installed on your system.
 
 ### Project (Source Code)
-- [Download the Starter Project](/resources/BudgetAppWorkshop-Starter.zip) 
+- [Download the Starter Project](/resources/BudgetAppWorkshop-starter-12132024.zip)
 - [Download the Final Project](/resources/BudgetAppWorkshop-final-12132024.zip)
 
 ### Fundamentals 
@@ -32,6 +32,7 @@ Dive deeper into SwiftData by understanding and setting up relationships between
 Ensure the reliability of your SwiftData implementation with robust testing strategies:
 
 - Perform unit testing on domain logic.
+- [Writing Unit Tests for SwiftData Domain Logic](https://youtu.be/OF7TLbMu1ZQ?si=rZ-qmxM2JXgvuCLW)
 
 ### Integrating with iCloud
 
@@ -39,4 +40,9 @@ Explore seamless integration with iCloud for data synchronization across devices
 
 - Configure iCloud settings for your SwiftData application.
 - Troubleshoot common iCloud errors for smoother operation.
+
+### Additional Resources: 
+
+- [Build Reminders App Clone Using SwiftData](https://azamsharp.teachable.com/p/swiftdata-build-apple-reminders-clone)
+- [The Ultimate Guide to Building SwiftData Applications](https://azamsharp.com/2023/07/04/the-ultimate-swift-data-guide.html)
 
